@@ -1,0 +1,25 @@
+{
+"Name": "Alien Manipulation (Somersloop)",
+"OverrideCategory": "Manipulation Matter",
+"Ingredients": [
+      {"Item": "Desc_WAT1_C"              ,"Amount": 1},
+      {"Item": "Desc_DarkMatter_C"        ,"Amount": 20},
+      {"Item": "Desc_Diamond_C"           ,"Amount": 60},
+      {"Item": "Desc_QuantumEnergy_C"     ,"Amount": 16000}
+],
+"Products": [
+      {"Item": "Desc_WAT1_C"        ,"Amount": 2},
+      {"Item": "Desc_DarkEnergy"    ,"Amount": 16000}
+],
+"ManufacturingDuration": 120.0,
+"ProducedIn": ["Build_QuantumEncoder_C"],
+
+"ManufacturingMenuPriority": 0.0,
+
+"ManualManufacturingMultiplier": 24.0,
+"VariablePowerConsumptionConstant": 10000.0,
+"VariablePowerConsumptionFactor": 10000.0,
+"ClearIngredients": true,
+"ClearProducts": true,
+"ClearBuilders": true
+}

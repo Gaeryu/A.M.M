@@ -1,0 +1,22 @@
+{
+"Name": "Alien Manipulation Matter",
+"Type": "Milestone",
+"Tier": 9,
+"MenuPriority": 1.1,
+"Time": 1800.0,
+"VisualKit": "tier_Matter",
+"OverrideCategory": "Manipulation-Matter",
+
+"Cost":
+    [
+        {"Item":"Desc_SAMIngot_C"       ,"Amount": 500},
+        {"Item":"Desc_FicsiteIngot_C"   ,"Amount": 500},
+        {"Item":"Desc_Diamond_C"        ,"Amount": 1000},
+        {"Item":"Desc_DarkMatter_C"     ,"Amount": 1000}
+    ],
+"Recipes":
+    [
+        "AMM_Mercer",
+        "AMM_Somersloop"
+    ]
+}
